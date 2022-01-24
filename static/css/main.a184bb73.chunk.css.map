@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,WACF,CAEA,OACE,iBACF,CAEA,QACE,oBAAqB,CACrB,WACF","file":"main.a184bb73.chunk.css","sourcesContent":["body {\n  margin: 16px;\n}\n\n.title {\n  font-size: x-large;\n}\n\n.button {\n  margin: 5px 5px 5px 0;\n  height: 34px;\n}\n"]}
